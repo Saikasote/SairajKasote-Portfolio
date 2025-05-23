@@ -1,0 +1,8 @@
+[
+  { "title": "ML Diabetes Prediction", "desc": "Predicts diabetes using ML techniques." },
+  { "title": "Airline Chatbot", "desc": "Chatbot for flight booking and queries." },
+  { "title": "Restaurant Chatbot", "desc": "Smart ordering bot for restaurants." },
+  { "title": "Plantify App", "desc": "Plant care and reminder app." },
+  { "title": "To-Do List", "desc": "Simple modern task manager." },
+  { "title": "Calculator", "desc": "Scientific calculator with history." }
+]
